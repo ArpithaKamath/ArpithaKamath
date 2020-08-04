@@ -11,7 +11,7 @@
 
 ### Programming Languages  :rocket:
 | <img src="https://raw.githubusercontent.com/arpithakamath/arpithakamath/master/img/java.png" width=60> |<img src="https://raw.githubusercontent.com/arpithakamath/arpithakamath/master/img/cpp.png" width=60> |<img src="https://raw.githubusercontent.com/arpithakamath/arpithakamath/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/arpithakamath/arpithakamath/master/img/python.svg" width=60> | <img src="https://raw.githubusercontent.com/arpithakamath/arpithakamath/master/img/php.svg" width=60> |
-|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|:---:|
 
 ### Database :blue_book:
 |<img src="https://raw.githubusercontent.com/arpithakamath/arpithakamath/master/img/mysql.png" width=60> | <img src="https://raw.githubusercontent.com/arpithakamath/arpithakamath/master/img/mongodb.png" width=60> | <img src="https://raw.githubusercontent.com/arpithakamath/arpithakamath/master/img/sqllite.png" width=60> |
