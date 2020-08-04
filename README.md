@@ -1,19 +1,12 @@
 
-<head>
-	<style>
-      .multicolortext {
-        background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+
+## Hola :wave: Developers, 
+
+<p  sttyle="background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
         -webkit-background-clip: text;
         -moz-background-clip: text;
         background-clip: text;
-        color: transparent;
-      }
-    </style>
-
-</head>
-## Hola :wave: Developers, 
-
-<p  class="multi" align="center">
+        color: transparent;" align="center">
 	<samp>
 		I'm Arpitha Kamath, an enthusiastic developer :computer:. I have 3 years of experience in Software Industry and I like solving problems with new approaches. Currently I'm expanding my area of interest in cloud based technologies.  
   </samp>
