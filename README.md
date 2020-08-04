@@ -3,7 +3,7 @@
 
 <p align="center">
 	<samp>
-		I'm Arpitha Kamath, an enthusiastic developer :computer:. I have and 3 years of experience in Software Industry and I like solving problems with new approaches. Currently I'm expanding my area of interest in cloud based technologies.  
+		I'm Arpitha Kamath, an enthusiastic developer :computer:. I have 3 years of experience in Software Industry and I like solving problems with new approaches. Currently I'm expanding my area of interest in cloud based technologies.  
   </samp>
 </p>
 
