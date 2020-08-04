@@ -2,7 +2,7 @@
 
 ## Hola :wave: Developers, 
 
-<p  sttyle="background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+<p  style="background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
         -webkit-background-clip: text;
         -moz-background-clip: text;
         background-clip: text;
