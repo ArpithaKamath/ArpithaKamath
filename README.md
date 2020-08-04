@@ -2,11 +2,7 @@
 
 ## Hola :wave: Developers, 
 
-<p  style="background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
-        -webkit-background-clip: text;
-        -moz-background-clip: text;
-        background-clip: text;
-        color: transparent;" align="center">
+<p  align="center">
 	<samp>
 		I'm Arpitha Kamath, an enthusiastic developer :computer:. I have 3 years of experience in Software Industry and I like solving problems with new approaches. Currently I'm expanding my area of interest in cloud based technologies.  
   </samp>
