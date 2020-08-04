@@ -25,8 +25,8 @@
 		HTML5, CSS3, Bootstrap3+, JavaScript, jQuery, AJAX, JSP/JSF, Node.js, Angularjs 2/4, React, XML, Hibernate, Spring MVC, SoapUI, JUnit, REST, Haskell, Agile methodologies, AWS
 	</samp>
 </p>
-###
---------------------------------------------------------------------------------------------
+
+### --------------------------------------------------------------------------------------------
 
 ### Connect with me :smiley:
 
